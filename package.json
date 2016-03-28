@@ -1,0 +1,10 @@
+{
+	"name": "Jquery-Safe",
+	"description": "A wrapper to control when jQuery is loaded by Backbone in a Node.js environment",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "2.2.2"
+	},
+	"repository": "https://github.com/burninggarden/jquery-safe.git",
+	"main": "./index.js"
+}
